@@ -40,5 +40,5 @@ npx expo start
 
 # Print
 
-![Print do jogo](QuebraCofre/assets/print.png)
+<img src="QuebraCofre/assets/print.png" alt="Print do jogo" width="300">
  
