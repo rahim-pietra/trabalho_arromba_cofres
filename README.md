@@ -1,6 +1,6 @@
 # Quebra-Cofre
 
-Jogo em React Native - Pietra & Maria Eduarda
+Jogo em React Native - Pietra & Maria Eduarda & Yasmin
 
 # Sobre
 
